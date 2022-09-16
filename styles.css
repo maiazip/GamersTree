@@ -149,3 +149,8 @@ main section:nth-child(3) {
         transform: translateY(0);
     }
 }
+
+.face {
+    bottom: -3px;
+    bottom: -5px;
+    }
