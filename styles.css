@@ -110,10 +110,6 @@ border-radius: 8px;
     width: 70px;
 }
 
-.face {
-bottom: -5px;
-}
-
 header div {
     animation: fromTop .7s .4s backwards;
 }
@@ -133,8 +129,6 @@ main section:nth-child(2) {
 main section:nth-child(3) {
     animation-delay: .7s;
 }
-
-    
 
 @keyframes fromTop {
     from {
