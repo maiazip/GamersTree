@@ -11,7 +11,7 @@ Mostre informações sobre as suas coisas favoritas e conecte-se com outros usu�
 
 <div align="center">
 
-[Link para acesso](https://maiacoding.github.io/nlw-esports-explorer/)
+[Link para acesso](https://maiacoding.github.io/GamersTree/)
 </div>
 
 <p align="center">
