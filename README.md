@@ -15,7 +15,8 @@ Mostre informações sobre as suas coisas favoritas e conecte-se com outros usu�
 </div>
 
 <p align="center">
-<img alt="Page Preview" src="./.github/preview.png" witdh="100%">
+<img alt="Page Preview" src="./.github/preview-desktop.png" witdh="100%">
+<img alt="Page Preview" src="./.github/preview-mobile.png" witdh="100%">
 </p>
 
 ## Projeto
