@@ -1,7 +1,7 @@
 <h1 align="center">GamersTree</h1>
 
 <p align="center">
-Mostre informações sobre as suas coisas favoritas e conecte-se com outros usuários
+Compartilhe os seus links e mostre que tipo de gamer você é através do GamersTree!
 
 <p align="center">
 <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
