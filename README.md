@@ -20,14 +20,12 @@ Mostre informações sobre as suas coisas favoritas e conecte-se com outros usu�
 </p>
 
 ## Projeto
-O projeto GamersTree foi feito para reunir diversas informações sobre suas coisas favoritas, num projeto prático como um LinkTree, mas mais com a sua cara!
-Desenvolvido durante o evento NLW Esports, na trilha Explorer
+O projeto GamersTree é um protótipo de um mini linktree onde você pode adicionar informações sobre os jogos que você mais gosta e os canais de streamers que mais acompanha, a princípio somente em uma ideia porém podendo ter implementações em bancos de dados, permitindo você interagir e modificar as informações como desejar
 
 ## Tecnologias
 
 - HTML
 - CSS
-- JavaScript
 - Git
 - Github
   
