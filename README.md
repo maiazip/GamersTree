@@ -11,7 +11,7 @@ Mostre informações sobre as suas coisas favoritas e conecte-se com outros usu�
 
 <div align="center">
 
-[Link para acesso](https://maiacoding.github.io/GamersTree/)
+[Link para acesso](https://maiazip.github.io/GamersTree/)
 </div>
 
 <p align="center">
