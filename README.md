@@ -14,10 +14,14 @@ Mostre informações sobre as suas coisas favoritas e conecte-se com outros usu�
 [Link para acesso](https://maiazip.github.io/GamersTree/)
 </div>
 
+
+## Preview Desktop
 <p align="center">
-Preview Desktop
 <img alt="Page Preview" src="./.github/preview-desktop.png" width="100%">
-Preview Mobile
+</p>
+
+## Preview Mobile
+<p align="center">
 <img alt="Page Preview" src="./.github/preview-mobile.png"  height="975">
 </p>
 
