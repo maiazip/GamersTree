@@ -184,7 +184,6 @@ video {
     width: 1.5rem;
 }
 
-
 .social-list {
     width: 100%;
     flex-direction: row;
@@ -235,7 +234,6 @@ main section:nth-child(4) {
     animation-delay: .10s;
 }
 
-
 @keyframes fromTop {
     from {
         opacity: 0;
@@ -261,7 +259,7 @@ main section:nth-child(4) {
 
 }
 
-@media (min-width: 426px) {
+@media (min-width: 624px) {
 
     .title {
         font-size: 1.8rem;
@@ -281,13 +279,16 @@ main section:nth-child(4) {
         width: 4rem;
     }
 
-
     .profile,
     .games,
     .channels,
     .social,
     .title {
         max-width: 35rem;
+    }
+
+    .social-list img {
+        width: 1.5rem;
     }
 }
 
@@ -317,5 +318,9 @@ main section:nth-child(4) {
     .social,
     .title {
         max-width: 40rem;
+    }
+
+    .social-list img {
+        width: 2rem;
     }
 }
