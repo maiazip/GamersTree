@@ -15,7 +15,9 @@ Mostre informações sobre as suas coisas favoritas e conecte-se com outros usu�
 </div>
 
 <p align="center">
+Preview Desktop
 <img alt="Page Preview" src="./.github/preview-desktop.png" width="100%">
+Preview Mobile
 <img alt="Page Preview" src="./.github/preview-mobile.png"  height="1080px">
 </p>
 
