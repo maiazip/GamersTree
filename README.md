@@ -15,14 +15,14 @@ Mostre informações sobre as suas coisas favoritas e conecte-se com outros usu�
 </div>
 
 
-## Preview Desktop
+<h2 align="center"> Preview Desktop </h2>
 <p align="center">
 <img alt="Page Preview" src="./.github/preview-desktop.png" width="100%">
 </p>
 
-## Preview Mobile
+<h2 align="center">Preview Mobile </h2>
 <p align="center">
-<img alt="Page Preview" src="./.github/preview-mobile.png"  height="975">
+<img alt="Page Preview" src="./.github/preview-mobile.png"  height="975px">
 </p>
 
 ## Projeto
